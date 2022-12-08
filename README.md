@@ -9,4 +9,10 @@ next we need to config our global email and username by running these two comman
 next we need to open a git bash terminal to the directory or folder that we want our project to be cloned to 
 next we cloned the repository to our work enviroment using command "git clone (copy and paste web site url here)" noting that we double checked that our work went to the proper directory or folder that we wanted to work in 
 then we want to open the project folder and we want to view the hiddent items so that we can see the git ignore folder
-next 
+next we created a .py file named main to start working with our code and made a print funtion to make sure that our compiler is up and running properly
+our next step is to add the files that we need to our get ignore we do this by creating a folder named "keys" but it can be any name that you want and we created a apikeys.json file and typed a statment that we want to add to the git ignore to demonsrate this example
+then we run the git status command after we add the apikeys file to the keys folder and now the bash sees it
+next we open the git ignore with some type of editor sut as note++ or just open it in viscode
+next you scroll to the bottom of the gitignore file and add the "keys\"or the folder you are adding and then save the changes
+next we will do a get status command again and we will see that bash is no longer tracking that folder
+this is used to keep api keys and passwords from being accessed by unauthorized people
