@@ -1,5 +1,5 @@
 # python_basic
-This project is a demonstration of all core python concepts and modules
+This project is multi repository demonstration of the core python modules and concepts.
 
 first we created a git hub repository using a python git ignore and we included a read me.
 next we need to run the command "git config --global credential.helper wincred" (this identifies your matching and you wont be able to do commits without running it)
