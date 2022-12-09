@@ -17,3 +17,15 @@ print("multipication of 2 * 3:",mulipication)
 # division
 division = 3/2
 print("division of 3 / 2:",division)
+
+# python also supports order of operations as well note that there is a operator precedence as well
+# which is similar in concept but different in execution and will be covered in later topics
+
+# basic order of operations in python are as follows:
+# parenthesis , exponentation , multipication , divivsion , addition , subtraction
+
+#order of operations
+order_of_operations = 2 + 3 * 4
+print("order of operations 2 + 3 * 4:",order_of_operations)
+second_order_operations = (2 + 3) * 4
+print("order of operations ( 2 + 3 ) * 4:",second_order_operations)
