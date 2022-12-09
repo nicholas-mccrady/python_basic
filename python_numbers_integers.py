@@ -22,7 +22,7 @@ print("division of 3 / 2:",division)
 # which is similar in concept but different in execution and will be covered in later topics
 
 # basic order of operations in python are as follows:
-# parenthesis , exponentation , multiplication , division , addition , subtraction
+# parenthesis , exponentiation , multiplication , division , addition , subtraction
 
 #order of operations
 order_of_operations = 2 + 3 * 4
