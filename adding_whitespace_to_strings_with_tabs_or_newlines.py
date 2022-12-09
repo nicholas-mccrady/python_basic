@@ -3,7 +3,7 @@
 print("Python")
 # \t is the tab symbol
 print("\tPython")
-# \n is the newling symbol
+# \n is the newline symbol
 print("Languages:\nPython\nC\nJavaScript")
 # we can also combine tabs and newlines \n \t
 print("Languages:\n\tPython\n\tC\n\tJavaScript")
