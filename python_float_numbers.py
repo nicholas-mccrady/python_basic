@@ -10,11 +10,11 @@ my_second_floating_number = 3.0
 first_result = my_floating_number + my_second_floating_number
 print (first_result)
 
-# beware that some mathmatic operations will produce unexpected results and to program accordingly
+# beware that some mathematic operations will produce unexpected results and to program accordingly
 unexpected_number1 = 0.2
 unexpected_number2 = 0.1
 unexpected_result = unexpected_number1 + unexpected_number2
 print (unexpected_result)
-# note that this operation produces alot of decimal places on the out put and this is due to python trying to 
-# represent the number as acuratly as it can
+# note that this operation produces a lot of decimal places on the out put and this is due to python trying to 
+# represent the number as accurately as it can
 

@@ -1,5 +1,5 @@
-# extra whitespace in your program can be consfusing to the readability of your code
-# an example of this is 'Python' and 'Python ' are two very differnt things
+# extra whitespace in your program can be confusing to the readability of your code
+# an example of this is 'Python' and 'Python ' are two very different things
 # as such python has methods to look for extra white space on the right and left sides of a string
 
 # here we will use the rstrip() method to ensure that no whitespace exists on the right end of a string
@@ -25,7 +25,7 @@ favorite_language = favorite_language.rstrip()
 favorite_language
 'python'
 
-# finaly there is a .strip() method to strip the white space from both sides at once
+# finally there is a .strip() method to strip the white space from both sides at once
 # here is an example of striping
 
 # as you can see when you execute the program I put a ton of white space in the string and on our second

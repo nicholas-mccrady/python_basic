@@ -1,4 +1,4 @@
-# this demostrates how to use a variable in a string
+# this demonstrates how to use a variable in a string
 
 # first name the variables and assign them values
 first_name = "nick"
@@ -17,7 +17,7 @@ myFull_name = f"{myFirst_name} {myLast_name}"
 # variable and the parenthesis is to give information to the method
 print(f"Hello, {myFull_name.title()}!")
 
-# we can also use f-strings to to compose a message and then assign the whole thing to a vaiable
+# we can also use f-strings to to compose a message and then assign the whole thing to a variable
 msgFirst_name = "nick"
 msgLast_name = "mccrady"
 msgFull_name = f"{msgFirst_name} {myLast_name}"

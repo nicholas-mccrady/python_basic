@@ -11,8 +11,8 @@ subtraction = 3-2
 print("subtraction of 3 - 2:",subtraction)
 
 # multiplication
-mulipication = 2 * 3
-print("multipication of 2 * 3:",mulipication)
+multiplication = 2 * 3
+print("multiplication of 2 * 3:",multiplication)
 
 # division
 division = 3/2
@@ -22,7 +22,7 @@ print("division of 3 / 2:",division)
 # which is similar in concept but different in execution and will be covered in later topics
 
 # basic order of operations in python are as follows:
-# parenthesis , exponentation , multipication , divivsion , addition , subtraction
+# parenthesis , exponentation , multiplication , division , addition , subtraction
 
 #order of operations
 order_of_operations = 2 + 3 * 4
